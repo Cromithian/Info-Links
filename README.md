@@ -1,3 +1,4 @@
 # Info-Links
 Information and links for every technology in existence!
-""This will take LITTRERALY FOREVER
+""  This will take LITTRERALY FOREVER.. So if anyone would like to chip in, and has Information about any technology(anywhere from a few words to "O.M.G.. is that a book your writing"), and links for verification, referances, diagrams, images, schimatics, program(s) (Including all programing languages {such as pdf files for each programing language} or programs for the programing languages or editors (see next entry), please feel free to share.... I would love to have just a one stop spot to locate everything technology just like this website GITHUB is awsome so I fighured why not use this repository for a compiled list for/from/to every spot on the net from here!
+  A one stop editer for every programing language (and yes every language) NOTE PAD PLUS PLUS (NOTEPAD++/NP++) https://notepad-plus-plus.org/
